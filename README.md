@@ -21,6 +21,6 @@ A restaurant storefront with settings for store owner and customers. Written usi
 
 ### Features:
 * React transitions
-* Responsive design for desktop, tablet, and mobile
+* Designed desktop, not mobile optimized
 
 #### Bugs, Questions, Comments? All Welcome. 
