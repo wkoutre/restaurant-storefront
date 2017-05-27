@@ -1,4 +1,4 @@
-// This is just some sample data so you don't have to think of your own!
+// This is sample data to load as "store owner"
 module.exports = {
   fish1: {
     name: 'Pacific Halibut',
